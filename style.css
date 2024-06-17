@@ -4,6 +4,7 @@
 }
 body{
     background-color: rgb(48, 47, 45);
+    background-image: url(background.jpg);
 }
 
 .navbar{
@@ -51,8 +52,55 @@ body{
 }
 .mjoy{
     height:700px;
-    width: 100%px;
-    background-color: rgb(116, 116, 88);
-    background-image: url(background.jpg);
-    
+    width: 100%pw;
+ 
+}
+.mtxt{
+    font-weight: 900;
+    color: white;
+    position: absolute;
+    font-size: 42px;
+    left:260px;
+    top:300px;
+}
+.watch{
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    left:495px;
+    top:360px;
+}
+.hatt{
+    color: white;
+    position: absolute;
+    left:385px;
+    top:420px;
+    font-size: 20px;
+    width:2000px;
+}
+.inpt{
+    height:56px;
+    width:350px;
+    background-color: #0000007d;
+    color:white;
+    position: absolute;
+    left:420px;
+    top:475px;
+    border-radius: 4px;
+}
+.get{
+    color: white;
+    font-size: x-large;
+    height: 62px;
+    width:180px;
+    background-color: red;
+    text-align: center; 
+    border-radius: 4px;
+    position: absolute;
+    left:790px;
+    top:475px;
+    border-radius: 4px;
+}
+#SHWDO{
+    text-shadow:2px 2px #000000;
 }
